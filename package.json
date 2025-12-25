@@ -1,0 +1,13 @@
+{
+  "name": "map-mvp-ux",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PNG campaign map + draggable markers + git history (MVP)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

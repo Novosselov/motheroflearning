@@ -1,0 +1,70 @@
+{
+  "markers": [
+    {
+      "id": "yanka",
+      "type": "player",
+      "name": "Yanka",
+      "x": 600,
+      "y": 420,
+      "color": "#2563eb",
+      "avatar": "",
+      "notes": "Last seen near the north gate."
+    },
+    {
+      "id": "campus",
+      "type": "location",
+      "name": "Academy Campus",
+      "x": 1200,
+      "y": 900,
+      "color": "#16a34a",
+      "avatar": "",
+      "notes": "Main grounds."
+    },
+    {
+      "id": "vampires",
+      "type": "event",
+      "name": "Vampire Incident",
+      "x": 900,
+      "y": 720,
+      "color": "#f97316",
+      "avatar": "",
+      "notes": "Circle of death trap discovered."
+    },
+    {
+      "name": "Vampires - Eat",
+      "type": "location",
+      "x": 2801,
+      "y": 3063,
+      "color": "#16a34a",
+      "avatar": "",
+      "id": "1766683150359"
+    },
+    {
+      "name": "Academy",
+      "type": "location",
+      "x": 3484,
+      "y": 3685.5,
+      "color": "#16a34a",
+      "avatar": "",
+      "id": "1766683167604"
+    },
+    {
+      "name": "Igrok",
+      "type": "player",
+      "x": 4048.08,
+      "y": 3420.77,
+      "color": "#2563eb",
+      "avatar": "",
+      "id": "1766683176351"
+    },
+    {
+      "name": "Location",
+      "type": "location",
+      "x": 2928.75,
+      "y": 4198.5,
+      "color": "#16a34a",
+      "avatar": "",
+      "id": "1766684247956"
+    }
+  ]
+}
