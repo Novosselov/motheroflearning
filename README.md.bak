@@ -46,19 +46,3 @@ The app reads the PNG size automatically.
 ## Storage
 
 Markers are stored in `data.json` (image-space coords: x,y).
-
-## Docker build and launch
-
-1) build
-```docker build -t map-mvp .
-```
-
-2) launch
-```docker run -d \
-  --name map-mvp \
-  -p 3000:3000 \
-  -v /opt/map-mvp/data:/app/data \
-  --restart unless-stopped \
-  map-mvp
-```
-
